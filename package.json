@@ -1,6 +1,6 @@
 {
   "name": "testcafe-browser-provider-ievms",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ievms TestCafe browser provider plugin.",
   "repository": "https://github.com/kartojal/testcafe-browser-provider-ievms",
   "publishConfig": {
