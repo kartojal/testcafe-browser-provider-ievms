@@ -34,5 +34,3 @@ testCafe
     .run();
 ```
 
-## Author
-Kartojal 
