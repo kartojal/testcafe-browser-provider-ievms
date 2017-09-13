@@ -1,8 +1,11 @@
 {
   "name": "testcafe-browser-provider-ievms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ievms TestCafe browser provider plugin.",
   "repository": "https://github.com/kartojal/testcafe-browser-provider-ievms",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "homepage": "https://github.com/kartojal/testcafe-browser-provider-ievms",
   "author": {
     "name": "Kartojal",
@@ -23,6 +26,9 @@
     "browser provider",
     "plugin"
   ],
+  "resolutions": {
+    "moment": "2.18.1"
+  },
   "license": "MIT",
   "dependencies": {
     "babel-register": "^6.26.0",
